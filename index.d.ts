@@ -47,6 +47,8 @@ export declare const StarterPack: StarterPack;
 export declare const StarterPlayer: StarterPlayer;
 export declare const Stats: Stats;
 export declare const Teams: Teams;
+export declare const VirtualUser: VirtualUser;
+export declare const CoreGui: CoreGui;
 export declare const TeleportService: TeleportService;
 export declare const TextChatService: TextChatService;
 export declare const TextService: TextService;
