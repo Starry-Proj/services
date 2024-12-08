@@ -36,6 +36,7 @@ export declare const ProximityPromptService: ProximityPromptService;
 export declare const ReplicatedFirst: ReplicatedFirst;
 export declare const ReplicatedStorage: ReplicatedStorage;
 export declare const RunService: RunService;
+export declare const VirtualInputManager: VirtualInputManager;
 export declare const ScriptContext: ScriptContext;
 export declare const ServerScriptService: ServerScriptService;
 export declare const ServerStorage: ServerStorage;
